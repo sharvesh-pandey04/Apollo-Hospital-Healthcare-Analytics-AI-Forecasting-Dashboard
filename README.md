@@ -50,7 +50,7 @@ graph TD
 
 ---
 
-## ✨ Key Capabilities & Business Impact
+## ✨  Key Capabilities & Business Impact
 
 - 🚑 **Patient Admission & Emergency Inflow Tracking**: Real-time breakdown of emergency vs. elective admissions.
 - 🩺 **Disease Trend & Diagnosis Mapping**: Identification of seasonal illness surges and clinical department workloads.
